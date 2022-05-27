@@ -1,4 +1,4 @@
-# banker-s-algorithm
+# banker's algorithm
 os deadlock avoidance
 
 
