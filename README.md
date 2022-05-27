@@ -1,7 +1,7 @@
 # banker-s-algorithm
-os homework
+os deadlock avoidance
 
 
 ## 在cmd
-g++ -o code banker.cpp
+g++ -o code banker.cpp <br>
 code < text.txt
